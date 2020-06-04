@@ -1,0 +1,43 @@
+
+.tablediv{
+	margin-top: 30px;
+	font-size: 15px;
+}
+
+
+
+.dataTables_wrapper .dataTables_paginate .paginate_button {
+    padding : 0px;
+    margin-left: 0px;
+    display: inline;
+    border: 0px;
+    background:none;
+    
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button:hover {  
+  background: none;
+  border: none;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button:active {
+	
+  background: none;
+  color: #0d223f !important;
+}
+
+.pagination>li>a, .pagination>li>span{
+  color:#0d223f !important;
+}
+
+.btnlocationAdd{
+	margin-top: 10px;
+	margin-left: 15px;
+}
+
+#messagediv{
+	
+	margin-left:15px;
+}
+
+
